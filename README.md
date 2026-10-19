@@ -7,7 +7,8 @@
     <img src="https://shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
   </a>
   <a href="https://github.com">
-    <img src="https://shields.io" alt="Give a Star!">
+    <img src="https://img.shields.io/badge/badge%2Fstars-give_star-yellow
+    " alt="Give a Star!">
   </a>
 </p>
 
