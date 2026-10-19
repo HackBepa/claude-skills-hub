@@ -24,7 +24,8 @@ Once the skill is active, you can trigger these advanced workflows directly in y
 | `/setup` | Calibrates the multi-project memory | Interactive onboarding test |
 | `/quiz` | Suspends note-taking and launches an active recall test | 5 Exam-style situational questions with hidden answers |
 | `/moc` | Compiles an automated Map of Content / Index | Centralized dashboard linked to your generated notes |
-| `/video <url>`| Ingests, sanitizes, and documents video lecture transcripts | Dual pedagogical brief + clean documentation asset |
+| `/video <url>`| Ingests, cleans, and documents video lecture transcripts | Dual pedagogical brief + clean documentation asset |
+| `/audit` | Refactors, cleans, and upgrades an existing legacy note | Diagnostic feedback + high-density restructured code |
 | `/tools` | Analyzes your tech stack and recommends MCP setups | Verified Model Context Protocol installation guide |
 
 ---
