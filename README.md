@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
+    <img src="https://shields.io" alt="License">
   </a>
   <a href="https://github.com">
     <img src="https://shields.io" alt="Stars">
