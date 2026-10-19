@@ -1,4 +1,4 @@
-<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/4c0e85dc-6e78-4bd3-9d05-457838b26688" />
+<img width="637" height="603" alt="cert-master-logo" src="https://github.com/user-attachments/assets/6e4ebe4c-1525-484d-bd1f-754539f0b4cf" />
 
 # 📚 CertMaster OS — High-Density Study & Knowledge Architect for Claude
 
