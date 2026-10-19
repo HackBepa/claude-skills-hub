@@ -166,3 +166,9 @@ Trigger onboarding tracker sequence to add new study tracks, switch output platf
 
 ### `/tools` - Workspace Supercharge
 Evaluate the user's active tech stack and deliver exact configuration commands or GitHub links for verified MCP servers to fully automate the pipeline.
+
+### `/audit` - Legacy Note Refactoring & Quality Audit
+When the user triggers the `/audit` command and glues an existing note or draft, suspend standard generation and execute this optimization pipeline:
+1. **Analyze:** Inspect the provided note for technical clutter, plain bulleted lists ("object-dumping"), missing context headers, and formatting weaknesses.
+2. **Pedagogical Feedback:** Write a brief chat critique highlighting *what* makes the note hard to read or study from, and *how* you will improve its structural density.
+3. **Refactor:** Output a single, pristine code block containing the fully upgraded version of the note, strictly mapped to the `## 📂 MULTI-PLATFORM OUTPUT CONFIGURATION` (Obsidian or Notion) selected during `/setup`. Ensure all core data is preserved, but elevated to professional standards.
