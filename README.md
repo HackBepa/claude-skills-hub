@@ -1,3 +1,5 @@
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/4c0e85dc-6e78-4bd3-9d05-457838b26688" />
+
 # 📚 CertMaster OS — High-Density Study & Knowledge Architect for Claude
 
 `cert-master` is an elite, production-grade system prompt (Skill) for Anthropic's Claude designed to convert raw, chaotic educational materials (PDFs, official documentation, video transcripts, or lecture notes) into pristine, future-proof **Obsidian** vaults or **Notion** databases.
