@@ -1,4 +1,11 @@
-<img width="637" height="603" alt="cert-master-logo" src="https://github.com/user-attachments/assets/6e4ebe4c-1525-484d-bd1f-754539f0b4cf" />
+<p align="center">
+  <img src="/assets/cert-master-logo.png" width="450" alt="CertMaster OS Logo">
+</p>
+
+<p align="center">
+  <a href="https://github.com"><img src="https://shields.io" alt="License"></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="Stars"></a>
+</p>
 
 # 📚 CertMaster OS — High-Density Study & Knowledge Architect for Claude
 
