@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
+  <a href="https://github.com/HackBepa/claude-skills-hub/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License: MIT">
   </a>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/badge%2Fstars-give_star-yellow
-    " alt="Give a Star!">
+  <a href="https://github.com/HackBepa/claude-skills-hub/stargazers">
+    <img src="https://img.shields.io/github/stars/HackBepa/claude-skills-hub?style=flat-square&logo=github&label=Give%20a%20star&color=yellow" alt="Give a Star!">
   </a>
 </p>
 
@@ -46,15 +45,15 @@ Once the skill is active, you can trigger these advanced workflows directly in y
 
 ## 🚀 Installation & Usage
 
-### Method 1: Claude Web Interface / Project
-1. Copy the entire contents of the `cert-master.md` file in this repository.
-2. In Claude, go to **Customize > Skills** (or inside a Claude Project's System Prompt).
-3. Paste the markdown code, save, and type `/setup` to initialize your tracking profile.
+### Method 1: Claude Web Interface
+1. Download the `skills/cert-master` folder from this repository and compress it as a `.zip`.
+2. In Claude, go to **Customize > Skills** and upload the `.zip`.
+3. Start a new chat and type `/setup` to initialize your tracking profile.
 
 ### Method 2: Claude Code (CLI)
-Save `cert-master.md` inside your global or local agent skills path:
+Copy the skill folder into your global or local agent skills path:
 ```bash
-cp cert-master.md ~/.claude/skills/cert-master.md
+cp -r skills/cert-master ~/.claude/skills/
 ```
 
 ---
@@ -62,7 +61,7 @@ cp cert-master.md ~/.claude/skills/cert-master.md
 ## 🔌 Supercharge with MCP (Model Context Protocol)
 
 `cert-master` is optimized for **2026 agentic workflows**. Combine this skill with:
-- **Filesystem MCP:** To allow Claude to write notes directly into your local Obsidian Vault using `/write-note` without copy-pasting.
+- **Filesystem MCP:** To allow Claude to write notes directly into your local Obsidian Vault without copy-pasting.
 - **Notion MCP:** To automatically sync generated summaries and quiz blocks straight into your cloud databases via API.
 
 ---
